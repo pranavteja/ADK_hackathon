@@ -1,71 +1,47 @@
-import streamlit as st
-import requests
+# Gig Worker's Intelligent Assistant 👷
 
-API_URL = "http://localhost:1234/chat"
+A full-stack AI agent platform for connecting gig workers with jobs, featuring intelligent pricing and searching.
 
-st.set_page_config(page_title="Gig Worker AI", page_icon="👷")
+## Components
+1.  *Backend API*: FastAPI (Agents, Logic, Data)
+2.  *Frontend UI*: Streamlit (Chat Interface)
 
-st.title("👷 Gig Worker's Intelligent Assistant")
-st.markdown("---")
-st.markdown("""
-**Expert AI for Gig Work**
-- 🕵️ **Find Jobs**: Incoming feed analysis (Urgency, Location).
-- 💰 **Smart Pricing**: Historical data analysis for accurate quotes.
-- 🤝 **Worker Matching**: Find verified 'Elite' workers.
-""")
+## Prerequisites
+- Python 3.10+
+- Google Cloud Project with Vertex AI API enabled (OR Google AI Studio Key)
 
-# Sidebar: Coverage Info
-with st.sidebar:
-    st.header("📍 Coverage Area")
-    st.success("City: **Bangalore**")
+## Setup
+1.  *Clone/Open Folder*:
+    bash
+    cd /path/to/gig
     
-    with st.expander("Supported Areas (60+)"):
-        st.markdown("""
-        - **Central**: MG Road, Shivajinagar, Frazer Town
-        - **North**: Hebbal, Yelahanka, RT Nagar, Malleswaram
-        - **South**: Jayanagar, BTM Layout, Koramangala, HSR Layout, JP Nagar, Electronic City
-        - **East**: Indiranagar, Whitefield, Marathahalli, Bellandur, KR Puram
-        - **West**: Rajajinagar, Vijayanagar, Peenya, RR Nagar
-        """)
-        
-    st.header("🛠️ Job Categories")
-    st.markdown("""
-    1. **Plumber** 🚿
-    2. **Electrician** 💡
-    3. **Carpenter** 🪑
-    4. **AC Repair** ❄️
-    5. **Maid Services** 🧹
-    6. **Painter** 🎨
-    7. **Civil Works** 🧱
-    """)
-    st.info("Product: **GigGuardian AI** v1.0")
+2.  *Install Dependencies*:
+    bash
+    python3 -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
+    # OR manually:
+    pip install google-adk google-genai fastapi uvicorn streamlit python-dotenv
+    
+3.  *Configure Credentials*:
+    - Ensure my_agent/.env exists with your GOOGLE_API_KEY.
 
-# Chat History
-if "messages" not in st.session_state:
-    st.session_state.messages = []
+## Running the Application (2 Terminal Windows)
 
-# Display Chat
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+### Terminal 1: Background Service (API)
+Start the AI Agent backend.
+bash
+source venv/bin/activate
+uvicorn api:app --host 0.0.0.0 --port 1234 --reload
 
-# User Input
-if prompt := st.chat_input("Ask me anything (e.g., 'Find plumber jobs in Indiranagar' or 'How much for a fan install?')"):
-    # User message
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.markdown(prompt)
 
-    # Bot response
-    with st.chat_message("assistant"):
-        with st.spinner("Thinking..."):
-            try:
-                response = requests.post(API_URL, json={"text": prompt})
-                if response.status_code == 200:
-                    answer = response.json()["response"]
-                    st.markdown(answer)
-                    st.session_state.messages.append({"role": "assistant", "content": answer})
-                else:
-                    st.error(f"Error: {response.text}")
-            except Exception as e:
-                st.error(f"Connection Failed: {e}")
+### Terminal 2: Frontend (UI)
+Start the Chat Interface.
+bash
+source venv/bin/activate
+streamlit run app.py --server.port 1235
+
+
+## Usage
+- Open Browser to: http://localhost:1234
+- Start chatting!
