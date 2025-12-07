@@ -1,8 +1,43 @@
-job_id,required_trade,location_zip,problem_description,urgency_level
-J101,Plumber,560038,Kitchen sink pipe burst flooding apartment,High
-J102,Electrician,560034,Dining room fan making wobbling noise,Low
-J103,Plumber,560066,Water tank overflow sensor installation,Medium
-J104,Electrician,560102,Half the house lost power suddenly,High
-J105,Carpenter,560041,Door hinge broken needs replacement,Medium
-J106,Plumber,560003,Convert indian toilet to western,Low
-J107,Electrician,560100,Install new AC power point,Medium
+job_id,required_trade,location_zip,area,contact_number,problem_description,urgency_level
+J101,Plumber,560038,Indiranagar,9876543210,Kitchen sink pipe burst flooding apartment,High
+J102,Electrician,560034,Koramangala,9876543211,Dining room fan making wobbling noise,Low
+J103,Plumber,560066,Whitefield,9876543212,Water tank overflow sensor installation,Medium
+J104,Electrician,560102,HSR Layout,9876543213,Half the house lost power suddenly,High
+J105,Carpenter,560041,Jayanagar,9876543214,Door hinge broken needs replacement,Medium
+J106,Plumber,560003,Malleswaram,9876543215,Convert indian toilet to western,Low
+J107,Electrician,560100,Electronic City,9876543216,Install new AC power point,Medium
+J108,Plumber,560024,Hebbal,9876543217,Bathroom drain completely blocked,High
+J109,Electrician,560064,Yelahanka,9876543218,Inverter not charging during power cuts,Medium
+J110,Carpenter,560078,JP Nagar,9876543219,Custom wardrobe assembly required,Low
+J111,Plumber,560098,RR Nagar,9876543220,Leaking tap in master bedroom,Low
+J112,Electrician,560001,MG Road,9876543221,Shop display lights flickering,High
+J113,Carpenter,560008,Ulsoor,9876543222,Office table repair - leg broken,Medium
+J114,Plumber,560037,Marathahalli,9876543223,Washing machine inlet pipe leaking,Medium
+J115,Electrician,560103,Bellandur,9876543224,MCB tripping frequently involving AC,High
+J116,Plumber,560076,BTM Layout,9876543225,Shower head replacement and cleaning,Low
+J117,Carpenter,560050,Banashankari,9876543226,Window frame termite damage repair,Medium
+J118,Electrician,560022,Yeshwanthpur,9876543227,Factory line motor connection check,High
+J119,Plumber,560092,Sahakar Nagar,9876543228,Solar water heater leakage on roof,Medium
+J120,Electrician,560043,Kalyan Nagar,9876543229,Smart home switch installation,Low
+J121,Carpenter,560010,Rajajinagar,9876543230,Kitchen cabinet door alignment,Medium
+J122,Plumber,560058,Peenya,9876543231,Industrial washroom blockage clearing,High
+J123,Electrician,560016,Ramamurthy Nagar,9876543232,UPS battery replacement,Low
+J124,Plumber,560032,RT Nagar,9876543233,Kitchen chimney pipe installation,Medium
+J125,Electrician,560094,Sanjay Nagar,9876543234,Outdoor garden light installation,Low
+J126,Carpenter,560080,Sadashivanagar,9876543236,Antique furniture restoration,Low
+J127,Plumber,560048,Mahadevapura,9876543237,RO water purifier installation,Medium
+J128,Electrician,560060,Kengeri,9876543238,Farmhouse perimeter lighting fix,High
+J129,Plumber,560035,Sarjapur Road,9876543239,Pressure pump installation for shower,Medium
+J130,Carpenter,560040,Vijayanagar,9876543240,Sofa leg repair,Low
+J131,AC Repair,560038,Indiranagar,9876543241,Split AC cooling not working,High
+J132,AC Repair,560100,Electronic City,9876543242,General service for 3 ACs,Low
+J133,Maid,560034,Koramangala,9876543243,Deep cleaning for 3BHK,Medium
+J134,Maid,560024,Hebbal,9876543244,Bathroom cleaning urgent,High
+J135,Painter,560041,Jayanagar,9876543245,Repainting living room wall,Low
+J136,Painter,560003,Malleswaram,9876543246,Exterior touch up for cracks,Medium
+J137,Civil,560102,HSR Layout,9876543247,Kitchen platform granite replacement,Medium
+J138,Civil,560058,Peenya,9876543248,Factory floor concrete patch work,High
+J139,AC Repair,560066,Whitefield,9876543249,AC making loud noise,Medium
+J140,Maid,560076,BTM Layout,9876543250,Full house dusting and mopping,Low
+J141,Painter,560098,RR Nagar,9876543251,Door and Window polishing,Low
+J142,Civil,560011,Jayanagar 4th Block,9876543252,Balcony waterproofing,High

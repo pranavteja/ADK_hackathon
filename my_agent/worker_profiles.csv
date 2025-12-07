@@ -1,7 +1,33 @@
-worker_id,name,trade,experience_years,skill_tags,service_area_zip,base_hourly_rate,rating_average,is_available,verified_badge,expertise_level
-W101,Ramesh Kumar,Plumber,12,"Leak Detection,Pipe Fitting",560038,400,4.8,True,True,Elite
-W102,Suresh Reddy,Electrician,15,"Wiring,Invertors,Industrial",560041,500,4.9,True,True,Expert
-W103,Anil Singh,Electrician,3,"Fittings,Basic Repair",560034,250,4.2,True,False,Moderate
-W104,Mahesh B,Plumber,5,"Installation,General Repair",560076,350,4.5,True,True,Moderate
-W105,Raju P,Plumber,8,"Blockage,Drainage",560100,450,4.6,False,True,Expert
-W106,John D,Carpenter,10,"Furniture,Interiors",560034,400,4.7,True,True,Elite
+worker_id,name,trade,experience_years,skill_tags,service_area_zip,area,base_hourly_rate,rating_average,is_available,verified_badge,expertise_level
+W101,Ramesh Kumar,Plumber,12,"Leak Detection,Pipe Fitting",560038,Indiranagar,400,4.8,True,True,Elite
+W102,Suresh Reddy,Electrician,15,"Wiring,Invertors,Industrial",560041,Jayanagar,500,4.9,True,True,Expert
+W103,Anil Singh,Electrician,3,"Fittings,Basic Repair",560034,Koramangala,250,4.2,True,False,Moderate
+W104,Mahesh B,Plumber,5,"Installation,General Repair",560076,BTM Layout,350,4.5,True,True,Moderate
+W105,Raju P,Plumber,8,"Blockage,Drainage",560100,Electronic City,450,4.6,False,True,Expert
+W106,John D,Carpenter,10,"Furniture,Interiors",560034,Koramangala,400,4.7,True,True,Elite
+W107,Krishna M,Electrician,7,"Home Automation,Lighting",560102,HSR Layout,400,4.6,True,True,Expert
+W108,Shiv P,Plumber,4,"Taps,Sinks",560066,Whitefield,300,4.3,True,False,Moderate
+W109,Abdul R,Carpenter,20,"Woodwork,Carving",560003,Malleswaram,600,4.9,True,True,Elite
+W110,Joseph T,Electrician,6,"AC Points,Wiring",560024,Hebbal,350,4.4,True,True,Expert
+W111,Vinay G,Plumber,2,"Basic Fixes",560064,Yelahanka,200,4.0,True,False,Novice
+W112,Mani S,Carpenter,8,"Cabinets,Repair",560011,Jayanagar 4th Block,380,4.5,True,True,Expert
+W113,Deepak L,Electrician,10,"Commercial,Panels",560058,Peenya,550,4.7,True,True,Elite
+W114,Raghu N,Plumber,15,"Pumps,Tanks",560098,RR Nagar,480,4.8,True,True,Elite
+W115,Syed K,Electrician,5,"General",560001,MG Road,300,4.2,True,False,Moderate
+W116,Ganesh V,Carpenter,12,"Modular Kitchens",560078,JP Nagar,500,4.8,True,True,Elite
+W117,Praveen J,Plumber,6,"Bathroom Fittings",560037,Marathahalli,350,4.4,True,True,Expert
+W118,Kumar A,Electrician,4,"House Wiring",560043,Kalyan Nagar,280,4.1,True,False,Moderate
+W119,Naveen R,Carpenter,7,"Doors,Windows",560010,Rajajinagar,360,4.4,True,True,Expert
+W120,Arun B,Plumber,9,"Heaters,Filters",560092,Sahakar Nagar,420,4.6,True,True,Expert
+W201,Ahmed K,AC Repair,8,"Split AC,Gas Filling",560038,Indiranagar,450,4.7,True,True,Expert
+W202,Robert S,AC Repair,12,"Installation,PCB Repair",560102,HSR Layout,550,4.8,True,True,Elite
+W203,Mohan L,AC Repair,4,"Window AC,Cleaning",560024,Hebbal,300,4.2,True,False,Moderate
+W301,Lakshmi M,Maid,10,"Deep Cleaning,Cooking",560034,Koramangala,200,4.6,True,True,Expert
+W302,Sarala K,Maid,6,"Housekeeping,Washing",560076,BTM Layout,180,4.4,True,True,Moderate
+W303,Gowri S,Maid,3,"Sweeping,Mopping",560066,Whitefield,150,4.1,True,False,Novice
+W401,Vikram J,Painter,15,"Texture,Royale,Exterior",560038,Indiranagar,350,4.9,True,True,Elite
+W402,Chenna R,Painter,8,"Wall Putty,Enamel",560041,Jayanagar,300,4.5,True,True,Expert
+W403,Babu N,Painter,20,"Whitewash,Doors",560058,Peenya,250,4.3,True,False,Expert
+W501,Muthu V,Civil,18,"Masonry,Plastering",560034,Koramangala,500,4.8,True,True,Elite
+W502,Shankar D,Civil,10,"Tiles,Flooring",560102,HSR Layout,450,4.6,True,True,Expert
+W503,Velu P,Civil,25,"Demolition,Concrete",560003,Malleswaram,400,4.5,True,True,Extreme

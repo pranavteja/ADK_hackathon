@@ -9,7 +9,12 @@ job_finder_agent = Agent(
     description='Finds incoming jobs.',
     instruction=(
         "You find jobs in `gig_jobs.csv`. Use `search_jobs(category, location_query)`. "
-        "Support 'anywhere' search. Report Urgency Level."
+        "RULES:\n"
+        "1. CORRECT SPELLING: If user says 'plumbinng', search 'Plumber'. 'carpernter' -> 'Carpenter'.\n"
+        "2. If user lists multiple, search for EACH one separately (e.g. search 'Plumber', then search 'Carpenter').\n"
+        "3. LOCATION REQUIRED: If user says 'near me', 'Bangalore', or 'Bengaluru' WITHOUT a specific Area Name, you MUST ASK: 'Which area in Bangalore?' (e.g. Indiranagar, Hebbal).\n"
+        "4. ONLY search without location if user explicitly says 'anywhere' or 'all locations'.\n"
+        "5. Support 'anywhere' search. Report Urgency Level."
     ),
     tools=[search_jobs, list_all_jobs]
 )

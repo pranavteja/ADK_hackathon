@@ -1,9 +1,101 @@
-historical_id,trade,job_description,location_zip,labor_hours,material_cost,final_rate_charged,difficulty_score,worker_id,customer_review_text
-H001,Plumber,Fixed profound leak in main line under kitchen sink,560038,4.5,1200,3500,8,W101,Excellent work handled difficult situation well
-H002,Electrician,Complete 2BHK rewiring old building,560041,32,15000,45000,9,W102,Very professional expensive but worth it
-H003,Plumber,Tap washer replacement,560038,0.5,50,300,2,W101,Quick and easy
-H004,Electrician,Ceiling fan installation,560034,1.0,0,350,3,W103,Good job
-H005,Plumber,Geyser installation and line connection,560076,2.0,400,1200,5,W104,Neat work
-H006,Electrician,Inverter setup and battery connection,560003,1.5,200,800,4,W102,Explained everything clearly
-H007,Plumber,Bathroom blockage clearing deep clog,560100,3.0,0,1500,7,W105,Took a long time but fixed it
-H008,Carpenter,Custom bookshelf assembly,560034,5.0,0,2500,6,W106,Precise work
+historical_id,trade,job_description,location_zip,area,labor_hours,material_cost,final_rate_charged,difficulty_score,worker_id,customer_review_text
+H001,Plumber,Fixed profound leak in main line under kitchen sink,560038,Indiranagar,4.5,1200,3500,8,W101,Excellent work handled difficult situation well
+H002,Electrician,Complete 2BHK rewiring old building,560041,Jayanagar,32,15000,45000,9,W102,Very professional expensive but worth it
+H003,Plumber,Tap washer replacement,560038,Indiranagar,0.5,50,300,2,W101,Quick and easy
+H004,Electrician,Ceiling fan installation,560034,Koramangala,1.0,0,350,3,W103,Good job
+H005,Plumber,Geyser installation and line connection,560076,BTM Layout,2.0,400,1200,5,W104,Neat work
+H006,Electrician,Inverter setup and battery connection,560003,Malleswaram,1.5,200,800,4,W102,Explained everything clearly
+H007,Plumber,Bathroom blockage clearing deep clog,560100,Electronic City,3.0,0,1500,7,W105,Took a long time but fixed it
+H008,Carpenter,Custom bookshelf assembly,560034,Koramangala,5.0,0,2500,6,W106,Precise work
+H009,Electrician,MCB replacement and switchboard check,560102,HSR Layout,1.0,800,1500,4,W107,Safe and certified
+H010,Plumber,Water tank cleaning full service,560066,Whitefield,3.0,0,1200,4,W108,Standard job
+H011,Carpenter,Teak wood door carving and polish,560003,Malleswaram,12.0,500,8000,9,W109,Artist level work
+H012,Electrician,Install 3 AC power points,560024,Hebbal,4.0,1200,3000,6,W110,Neat piping
+H013,Plumber,Toilet flush tank repair,560064,Yelahanka,1.0,300,600,3,W111,Basic repair done
+H014,Carpenter,Kitchen cabinet hinge repair multipoint,560011,Jayanagar 4th Block,2.5,200,1100,5,W112,Fixed properly
+H015,Electrician,3 Phase connection load balancing,560058,Peenya,6.0,0,5000,9,W113,Industrial expert
+H016,Plumber,Pressure pump installation with bypass,560098,RR Nagar,3.5,800,2200,6,W114,Technically sound
+H017,Electrician,Tube light replacement led batten,560001,MG Road,0.5,0,200,1,W115,Simple task
+H018,Carpenter,Modular kitchen basket alignment,560078,JP Nagar,2.0,0,900,4,W116,Smooth operation now
+H019,Plumber,Shower mixer installation wall mount,560037,Marathahalli,2.5,150,1400,5,W117,Good finishing
+H020,Electrician,House earthing check and pit salt filling,560043,Kalyan Nagar,4.0,500,2000,6,W118,Important safety work handled well
+H021,AC Repair,Split AC Service Jet Clean,560038,Indiranagar,1.5,0,600,3,W201,Cleaning was thorough
+H022,AC Repair,Gas filling R32 and leak check,560034,Koramangala,1.0,2500,3000,5,W201,Costly but cooling is back
+H023,AC Repair,Window AC installation with wood frame,560041,Jayanagar,2.0,500,1500,6,W202,Sturdy installation
+H024,AC Repair,PCB board repair inverter AC,560102,HSR Layout,3.0,3500,5000,8,W202,Technician knew electronics well
+H025,AC Repair,AC dismantling for shifting,560066,Whitefield,1.0,0,800,4,W201,Quick job
+H026,AC Repair,Capacitor replacement outdoor unit,560076,BTM Layout,0.5,450,950,3,W202,Fixed in 10 mins
+H027,AC Repair,Copper pipe extension 3 meters,560103,Bellandur,1.5,3000,4000,5,W201,Pipe quality good
+H028,AC Repair,General Service Window AC,560003,Malleswaram,1.0,0,500,2,W203,Decent job
+H029,AC Repair,Noise issue in indoor unit blower,560024,Hebbal,2.0,800,1800,6,W203,Noise gone completely
+H030,AC Repair,Stabilizer installation and mounting,560001,MG Road,0.5,0,400,2,W203,Neat mounting
+H031,Maid,Deep cleaning 2BHK empty house,560034,Koramangala,6.0,300,3000,7,W301,Very clean
+H032,Maid,Bathroom cleaning acid wash,560038,Indiranagar,2.0,150,800,6,W301,Spotless bathrooms
+H033,Maid,Kitchen chimney and slab degreasing,560041,Jayanagar,3.0,200,1200,7,W302,Chimney looks new
+H034,Maid,Sofa shampoo cleaning 5 seater,560102,HSR Layout,2.0,100,1500,5,W302,Dried quickly
+H035,Maid,Full house floor mopping and dusting daily,560066,Whitefield,1.5,0,4000,3,W303,Monthly rate decent
+H036,Maid,Utensil washing and cooking for party,560076,BTM Layout,4.0,0,1000,6,W301,Good helper
+H037,Maid,Balcony and window glass cleaning,560003,Malleswaram,2.5,50,900,5,W302,Glass is transparent now
+H038,Maid,Refrigerator deep clean inside out,560100,Electronic City,1.5,0,500,4,W303,Hygenic work
+H039,Maid,Wardrobe organization and folding,560024,Hebbal,3.0,0,600,3,W301,Neatly arranged
+H040,Maid,Carpet vacuuming and spot removal,560098,RR Nagar,2.0,100,800,5,W302,Stains removed
+H041,Painter,Interior painting 2BHK wall putty + emulsion,560038,Indiranagar,48,8000,22000,7,W401,Good finish took 3 days
+H042,Painter,Single wall texture design royal play,560102,HSR Layout,6.0,2000,4500,8,W401,Looks artistic
+H043,Painter,Exterior crack filling and waterproof paint,560041,Jayanagar,24,5000,12000,8,W402,Sealed all cracks
+H044,Painter,Door polishing and varnishing 4 doors,560066,Whitefield,16,1500,5000,6,W402,Shiny finish
+H045,Painter,Rental painting touchup 1BHK,560034,Koramangala,8,1000,3500,4,W401,Good for budget
+H046,Painter,Grill painting black enamel,560076,BTM Layout,5.0,800,2000,5,W403,No drops on floor
+H047,Painter,Ceiling whitening whitewash,560003,Malleswaram,6.0,500,1800,3,W403,Basic job done well
+H048,Painter,Full house asian paints royale,560024,Hebbal,64,15000,35000,9,W402,Premium finish
+H049,Painter,Kids room stencil painting,560100,Electronic City,4.0,500,2500,7,W401,Kids loved it
+H050,Painter,Wood coating pergola,560058,Peenya,12,3000,6000,8,W403,Weather proofed
+H051,Civil,Constructing brick partition wall 10x10,560038,Indiranagar,16,4000,8000,8,W501,Straight wall solid
+H052,Civil,Plastering repair patch work ceiling,560041,Jayanagar,4.0,500,1500,6,W501,Matches old plaster
+H053,Civil,Laying localized tiles bathroom floor,560102,HSR Layout,8.0,2000,3500,7,W502,Slope is perfect
+H054,Civil,Granite counter top installation kitchen,560066,Whitefield,6.0,1500,3000,8,W502,Heavy lifting done well
+H055,Civil,Terrace waterproofing dr fixit coating,560034,Koramangala,24,5000,15000,9,W501,No leakage after rain
+H056,Civil,Compound wall height increase,560076,BTM Layout,16,3000,7000,7,W503,Secure now
+H057,Civil,Demolishing old concrete shelf,560003,Malleswaram,4.0,0,1200,6,W503,Clean removal
+H058,Civil,Fixing interlock pavers in driveway,560100,Electronic City,8.0,2000,4000,6,W502,Level surface
+H059,Civil,Core cutting for AC pipe 4 inch,560024,Hebbal,1.0,0,800,5,W501,Clean hole
+H060,Civil,Installing concrete sink,560058,Peenya,3.0,500,1500,5,W503,Sturdy
+H061,Electrician,Fitting chandelier in high ceiling,560038,Indiranagar,3.0,0,1500,7,W102,Careful handling
+H062,Electrician,Replacing burnt main fuse carrier,560041,Jayanagar,0.5,200,600,4,W103,Immediate response
+H063,Electrician,Garden focus light wiring underground,560102,HSR Layout,5.0,1000,3500,7,W107,Safe cabling
+H064,Electrician,Installing CCTV cameras 4 channel,560066,Whitefield,6.0,800,2500,6,W110,Neat routing
+H065,Plumber,Rainwater harvesting filter installation,560034,Koramangala,4.0,2500,4500,7,W101,Good setup
+H066,Plumber,Fixing low pressure in shower,560076,BTM Layout,2.0,0,800,5,W104,Identified air lock
+H067,Plumber,Replacing western commode full set,560003,Malleswaram,3.0,500,1800,6,W105,Clean installation
+H068,Carpenter,Replacing window mosquito mesh,560100,Electronic City,1.5,300,700,3,W106,Tight fit
+H069,Carpenter,Making custom shoe rack plywood,560024,Hebbal,8.0,1500,4500,7,W109,Good design
+H070,Carpenter,Bed frame repair creaking sound,560098,RR Nagar,2.0,100,600,4,W112,Noise stopped
+H071,AC Repair,Circuit board change Daikin,560038,Indiranagar,1.0,4500,5500,6,W201,Original part used
+H072,AC Repair,Swing motor replacement,560041,Jayanagar,1.0,800,1200,4,W202,Flap moving now
+H073,Maid,Post renovation deep cleaning,560102,HSR Layout,8.0,200,4000,8,W302,Removed all dust
+H074,Maid,Office pantry cleaning and maintenance,560066,Whitefield,2.0,0,600,3,W303,Daily task
+H075,Painter,Painting single door frame,560034,Koramangala,1.5,200,500,3,W401,Quick touchup
+H076,Painter,Wall stenciling living room,560076,BTM Layout,5.0,600,3000,7,W402,Beautiful pattern
+H077,Civil,Grouting bathroom tiles epoxy,560003,Malleswaram,4.0,800,2500,6,W501,Waterproof now
+H078,Civil,fixing soap holder in wall,560100,Electronic City,0.5,0,300,2,W502,Firm
+H079,Electrician,Checking wiring fault short circuit,560024,Hebbal,3.0,0,1500,8,W102,Traced the fault
+H080,Plumber,Unclogging kitchen grease trap,560098,RR Nagar,2.0,0,1000,6,W105,Messy work done well
+H081,Carpenter,Curtain rod installation 3 windows,560058,Peenya,1.5,100,600,3,W106,Levelled perfectly
+H082,AC Repair,Remote sensor repair,560011,Jayanagar 4th Block,0.5,400,800,4,W203,Working from far now
+H083,Maid,Window mesh cleaning vacuum,560078,JP Nagar,1.5,0,400,3,W301,Dust free
+H084,Painter,Painting balcony railings,560043,Kalyan Nagar,3.0,400,1200,5,W403,Rust protection
+H085,Civil,Replacing broken floor tile,560010,Rajajinagar,2.0,100,600,4,W503,Invisible patch
+H086,AC Repair,AC water leakage inside room,560038,Indiranagar,1.5,0,750,5,W201,Drain pipe cleared
+H087,Maid,Ironing clothes 20 pieces,560034,Koramangala,1.0,0,200,2,W303,Crisp ironing
+H088,Electrician,Video door phone installation,560102,HSR Layout,2.0,0,1200,6,W107,Works on phone
+H089,Plumber,Installing washing machine tap adapter,560066,Whitefield,0.5,150,450,2,W108,Leak free connection
+H090,Carpenter,Drilling holes for wall hangings,560003,Malleswaram,0.5,0,300,1,W109,Perfect spots
+H091,Civil,Building small ramp for bike,560100,Electronic City,3.0,800,1800,5,W501,Smooth slope
+H092,Painter,Painting ceiling rose design,560024,Hebbal,2.0,200,900,5,W402,Highlighted well
+H093,Maid,Cleaning ceiling fans 4 nos,560098,RR Nagar,1.5,0,500,4,W301,Wiped clean
+H094,AC Repair,Gas topup R410A,560058,Peenya,0.5,1200,1800,4,W203,Cooling improved
+H095,Electrician,Connecting home theater speaker wiring,560011,Jayanagar 4th Block,2.5,0,800,5,W110,Concealed wiring
+H096,Plumber,Repairing leaking stop cock,560078,JP Nagar,0.5,200,500,3,W111,Drip stopped
+H097,Carpenter,Fixing drawer channels,560043,Kalyan Nagar,1.0,300,700,4,W112,Smooth sliding
+H098,Civil,Plastering internal wiring cuts,560010,Rajajinagar,2.0,100,700,4,W502,Covered well
+H099,Painter,Varnish coating on wooden stairs,560037,Marathahalli,4.0,1000,3000,7,W403,Non slip finish
+H100,Maid,Cleaning terrace garden floor,560001,MG Road,2.0,0,600,4,W302,Moss removed

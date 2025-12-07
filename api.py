@@ -55,9 +55,26 @@ async def chat_endpoint(request: QueryRequest):
                  if hasattr(e, 'text') and e.text:
                      output_text = e.text
                      break
-                 if hasattr(e, 'content') and e.content: # Some events use content
-                     output_text = str(e.content)
-                     break
+                 if hasattr(e, 'content') and e.content:
+                     # Check if content has 'parts' (common in ADK ModelResponse)
+                     if hasattr(e.content, 'parts'):
+                         parts_text = []
+                         for part in e.content.parts:
+                             if hasattr(part, 'text') and part.text:
+                                 parts_text.append(part.text)
+                         if parts_text:
+                             output_text = "\n".join(parts_text)
+                             break
+                     # Fallback to direct text attribute or string conversion if 'parts' missing but not empty
+                     elif hasattr(e.content, 'text') and e.content.text:
+                         output_text = e.content.text
+                         break
+                     
+                     # If we are here, it might be a weird object, but let's try not to return raw repr
+                     # Only use str() as last resort if it looks like a string
+                     if isinstance(e.content, str):
+                        output_text = e.content
+                        break
         
         if not output_text:
             output_text = "No response generated."
