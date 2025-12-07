@@ -1,0 +1,101 @@
+worker_id,name,trade,experience_years,skill_tags,service_area_zip,base_hourly_rate,rating_average,is_available,verified_badge,expertise_level
+1001,Electrician Worker 1 (BLR),Electrician,15,"Geyser Connection, MCB Box Repair",560103,643.1,4.3,False,False,4
+1002,Plumber Worker 2 (BLR),Plumber,1,"Bathroom Leak Fix, Tap/Mixer Installation, Water Tank Cleaning",560103,569.86,4.8,False,True,4
+1003,Plumber Worker 3 (BLR),Plumber,13,"Bathroom Leak Fix, Drain Choke Removal, Toilet Flush/Flapper Repair",560037,526.86,4.4,False,False,3
+1004,Plumber Worker 4 (BLR),Plumber,3,"Bathroom Leak Fix, Drain Choke Removal, Tap/Mixer Installation",560037,683.08,4.0,True,True,3
+1005,Electrician Worker 5 (BLR),Electrician,13,"MCB Box Repair, Geyser Connection, Wiring/Short Circuit",560103,740.98,4.3,False,True,2
+1006,Plumber Worker 6 (BLR),Plumber,9,"Drain Choke Removal, Geyser Repair",560066,785.78,4.6,False,False,1
+1007,Plumber Worker 7 (BLR),Plumber,3,"Drain Choke Removal, Bathroom Leak Fix, Tap/Mixer Installation, Water Tank Cleaning",560001,760.76,4.5,True,True,4
+1008,Electrician Worker 8 (BLR),Electrician,5,"Wiring/Short Circuit, MCB Box Repair",560001,608.8,4.3,False,True,4
+1009,Plumber Worker 9 (BLR),Plumber,11,"Geyser Repair, Toilet Flush/Flapper Repair, Bathroom Leak Fix",560037,685.93,3.7,False,False,5
+1010,Plumber Worker 10 (BLR),Plumber,12,"Drain Choke Removal, Tap/Mixer Installation, Water Tank Cleaning, Bathroom Leak Fix",560066,544.51,4.6,True,True,3
+1011,Plumber Worker 11 (BLR),Plumber,7,"Tap/Mixer Installation, Drain Choke Removal, Water Tank Cleaning, Geyser Repair",560103,436.98,3.9,True,True,4
+1012,Electrician Worker 12 (BLR),Electrician,10,"Wiring/Short Circuit, New Meter Box Installation, Inverter/UPS Wiring, MCB Box Repair",560001,767.12,4.4,False,True,3
+1013,Electrician Worker 13 (BLR),Electrician,5,"New Meter Box Installation, Light/Fan Installation",560066,564.0,3.8,False,False,3
+1014,Electrician Worker 14 (BLR),Electrician,5,"Wiring/Short Circuit, Inverter/UPS Wiring, Geyser Connection, New Meter Box Installation",560075,521.47,4.0,False,True,2
+1015,Plumber Worker 15 (BLR),Plumber,1,"Drain Choke Removal, Geyser Repair",560066,345.37,3.9,True,True,3
+1016,Electrician Worker 16 (BLR),Electrician,9,"Light/Fan Installation, Geyser Connection, New Meter Box Installation, MCB Box Repair",560001,393.52,3.6,True,True,3
+1017,Electrician Worker 17 (BLR),Electrician,12,"MCB Box Repair, Light/Fan Installation, Wiring/Short Circuit, Inverter/UPS Wiring",560103,483.32,4.8,False,True,4
+1018,Plumber Worker 18 (BLR),Plumber,6,"Water Tank Cleaning, Bathroom Leak Fix, Toilet Flush/Flapper Repair, Tap/Mixer Installation",560066,366.96,4.3,False,False,3
+1019,Plumber Worker 19 (BLR),Plumber,12,"Water Tank Cleaning, Geyser Repair, Drain Choke Removal",560001,341.63,3.9,True,True,3
+1020,Plumber Worker 20 (BLR),Plumber,4,"Tap/Mixer Installation, Drain Choke Removal, Geyser Repair",560103,444.58,4.2,False,False,4
+1021,Electrician Worker 21 (BLR),Electrician,11,"Wiring/Short Circuit, New Meter Box Installation",560037,703.32,4.0,True,True,4
+1022,Electrician Worker 22 (BLR),Electrician,13,"Light/Fan Installation, Geyser Connection",560066,695.43,3.8,False,True,5
+1023,Electrician Worker 23 (BLR),Electrician,6,"Inverter/UPS Wiring, MCB Box Repair, Wiring/Short Circuit, Geyser Connection",560075,684.99,3.8,True,False,4
+1024,Electrician Worker 24 (BLR),Electrician,6,"Inverter/UPS Wiring, Light/Fan Installation, New Meter Box Installation",560075,359.16,4.5,True,True,3
+1025,Electrician Worker 25 (BLR),Electrician,5,"Geyser Connection, MCB Box Repair, Wiring/Short Circuit, New Meter Box Installation",560066,771.99,4.0,True,False,5
+1026,Electrician Worker 26 (BLR),Electrician,15,"Light/Fan Installation, MCB Box Repair",560066,605.14,4.4,False,True,2
+1027,Plumber Worker 27 (BLR),Plumber,4,"Bathroom Leak Fix, Tap/Mixer Installation, Water Tank Cleaning, Toilet Flush/Flapper Repair",560001,500.93,4.8,False,False,3
+1028,Plumber Worker 28 (BLR),Plumber,12,"Bathroom Leak Fix, Tap/Mixer Installation, Geyser Repair, Drain Choke Removal",560037,526.49,3.7,True,True,3
+1029,Plumber Worker 29 (BLR),Plumber,4,"Water Tank Cleaning, Drain Choke Removal",560066,396.53,3.9,True,True,5
+1030,Electrician Worker 30 (BLR),Electrician,11,"Wiring/Short Circuit, Inverter/UPS Wiring, MCB Box Repair",560037,396.01,3.6,False,False,4
+1031,Electrician Worker 31 (BLR),Electrician,14,"Geyser Connection, Wiring/Short Circuit, MCB Box Repair",560001,485.5,3.8,True,True,5
+1032,Electrician Worker 32 (BLR),Electrician,13,"New Meter Box Installation, Wiring/Short Circuit",560066,778.88,4.3,False,True,3
+1033,Plumber Worker 33 (BLR),Plumber,5,"Toilet Flush/Flapper Repair, Tap/Mixer Installation, Geyser Repair",560075,705.25,3.9,True,True,3
+1034,Electrician Worker 34 (BLR),Electrician,8,"MCB Box Repair, Geyser Connection, Inverter/UPS Wiring, Wiring/Short Circuit",560037,443.46,4.7,True,True,4
+1035,Plumber Worker 35 (BLR),Plumber,14,"Toilet Flush/Flapper Repair, Bathroom Leak Fix",560075,425.49,4.3,False,True,2
+1036,Electrician Worker 36 (BLR),Electrician,8,"Light/Fan Installation, Inverter/UPS Wiring, Geyser Connection, MCB Box Repair",560037,313.26,3.9,True,True,1
+1037,Electrician Worker 37 (BLR),Electrician,11,"New Meter Box Installation, Light/Fan Installation",560037,551.91,4.9,False,True,5
+1038,Plumber Worker 38 (BLR),Plumber,7,"Geyser Repair, Drain Choke Removal",560075,522.64,4.2,False,True,5
+1039,Electrician Worker 39 (BLR),Electrician,9,"Inverter/UPS Wiring, Light/Fan Installation, New Meter Box Installation, MCB Box Repair",560103,345.5,4.1,True,True,1
+1040,Plumber Worker 40 (BLR),Plumber,5,"Tap/Mixer Installation, Geyser Repair",560075,592.84,4.2,False,True,2
+1041,Plumber Worker 41 (BLR),Plumber,9,"Drain Choke Removal, Water Tank Cleaning, Bathroom Leak Fix",560075,331.29,4.0,True,True,4
+1042,Electrician Worker 42 (BLR),Electrician,5,"MCB Box Repair, Inverter/UPS Wiring",560075,611.5,4.2,True,True,2
+1043,Plumber Worker 43 (BLR),Plumber,10,"Drain Choke Removal, Tap/Mixer Installation, Water Tank Cleaning, Toilet Flush/Flapper Repair",560037,573.05,4.3,False,False,5
+1044,Electrician Worker 44 (BLR),Electrician,13,"MCB Box Repair, Geyser Connection, Inverter/UPS Wiring, Wiring/Short Circuit",560066,430.49,4.6,True,True,2
+1045,Electrician Worker 45 (BLR),Electrician,8,"New Meter Box Installation, Inverter/UPS Wiring, Geyser Connection, Wiring/Short Circuit",560066,642.02,4.1,True,True,3
+1046,Plumber Worker 46 (BLR),Plumber,8,"Tap/Mixer Installation, Toilet Flush/Flapper Repair",560103,360.12,4.9,True,True,3
+1047,Plumber Worker 47 (BLR),Plumber,5,"Water Tank Cleaning, Tap/Mixer Installation, Geyser Repair, Bathroom Leak Fix",560001,470.94,4.4,True,True,3
+1048,Electrician Worker 48 (BLR),Electrician,1,"Wiring/Short Circuit, Inverter/UPS Wiring",560066,484.93,4.7,False,True,4
+1049,Plumber Worker 49 (BLR),Plumber,7,"Tap/Mixer Installation, Drain Choke Removal",560066,785.85,4.5,True,True,3
+1050,Electrician Worker 50 (BLR),Electrician,2,"Wiring/Short Circuit, MCB Box Repair, New Meter Box Installation, Light/Fan Installation",560037,562.51,3.7,True,True,3
+1051,Plumber Worker 51 (BLR),Plumber,4,"Water Tank Cleaning, Geyser Repair",560103,412.77,4.6,True,True,2
+1052,Plumber Worker 52 (BLR),Plumber,8,"Toilet Flush/Flapper Repair, Drain Choke Removal, Tap/Mixer Installation",560001,556.66,3.9,True,True,4
+1053,Plumber Worker 53 (BLR),Plumber,11,"Bathroom Leak Fix, Toilet Flush/Flapper Repair, Drain Choke Removal, Tap/Mixer Installation",560001,573.68,3.8,False,False,3
+1054,Electrician Worker 54 (BLR),Electrician,1,"MCB Box Repair, New Meter Box Installation, Geyser Connection",560001,779.89,4.9,False,True,4
+1055,Plumber Worker 55 (BLR),Plumber,10,"Drain Choke Removal, Toilet Flush/Flapper Repair, Water Tank Cleaning",560037,644.98,4.9,True,True,2
+1056,Electrician Worker 56 (BLR),Electrician,15,"Wiring/Short Circuit, Light/Fan Installation, Inverter/UPS Wiring",560001,722.17,4.1,False,True,4
+1057,Electrician Worker 57 (BLR),Electrician,11,"Geyser Connection, Inverter/UPS Wiring, MCB Box Repair",560075,406.32,3.5,True,False,5
+1058,Plumber Worker 58 (BLR),Plumber,3,"Drain Choke Removal, Bathroom Leak Fix, Water Tank Cleaning",560001,630.58,3.7,True,False,3
+1059,Electrician Worker 59 (BLR),Electrician,3,"Inverter/UPS Wiring, Geyser Connection, Wiring/Short Circuit",560001,318.62,4.9,False,False,2
+1060,Plumber Worker 60 (BLR),Plumber,12,"Tap/Mixer Installation, Drain Choke Removal, Water Tank Cleaning",560103,496.03,3.8,False,True,3
+1061,Plumber Worker 61 (BLR),Plumber,3,"Drain Choke Removal, Bathroom Leak Fix",560001,459.95,4.3,True,True,2
+1062,Electrician Worker 62 (BLR),Electrician,6,"MCB Box Repair, Light/Fan Installation, Geyser Connection, Wiring/Short Circuit",560103,745.8,4.9,False,True,4
+1063,Plumber Worker 63 (BLR),Plumber,4,"Tap/Mixer Installation, Drain Choke Removal, Bathroom Leak Fix, Toilet Flush/Flapper Repair",560001,552.83,4.6,False,False,3
+1064,Plumber Worker 64 (BLR),Plumber,3,"Toilet Flush/Flapper Repair, Drain Choke Removal, Tap/Mixer Installation",560001,323.72,3.7,True,True,3
+1065,Plumber Worker 65 (BLR),Plumber,2,"Water Tank Cleaning, Toilet Flush/Flapper Repair",560066,465.12,4.6,True,False,3
+1066,Plumber Worker 66 (BLR),Plumber,14,"Geyser Repair, Toilet Flush/Flapper Repair, Tap/Mixer Installation",560001,425.24,4.3,False,True,3
+1067,Electrician Worker 67 (BLR),Electrician,4,"Wiring/Short Circuit, Geyser Connection",560075,379.42,4.0,False,True,2
+1068,Plumber Worker 68 (BLR),Plumber,3,"Drain Choke Removal, Water Tank Cleaning, Tap/Mixer Installation, Toilet Flush/Flapper Repair",560001,374.9,3.7,False,False,2
+1069,Plumber Worker 69 (BLR),Plumber,8,"Tap/Mixer Installation, Toilet Flush/Flapper Repair, Water Tank Cleaning",560001,758.28,4.0,True,True,5
+1070,Plumber Worker 70 (BLR),Plumber,11,"Tap/Mixer Installation, Water Tank Cleaning, Geyser Repair",560103,431.71,4.5,True,True,4
+1071,Plumber Worker 71 (BLR),Plumber,15,"Bathroom Leak Fix, Toilet Flush/Flapper Repair, Geyser Repair, Tap/Mixer Installation",560037,436.53,3.6,True,False,3
+1072,Plumber Worker 72 (BLR),Plumber,1,"Tap/Mixer Installation, Toilet Flush/Flapper Repair",560075,332.02,3.8,True,True,3
+1073,Plumber Worker 73 (BLR),Plumber,11,"Tap/Mixer Installation, Bathroom Leak Fix, Geyser Repair, Toilet Flush/Flapper Repair",560001,565.1,4.4,True,True,5
+1074,Electrician Worker 74 (BLR),Electrician,5,"Geyser Connection, MCB Box Repair, Light/Fan Installation",560066,416.05,4.6,True,True,5
+1075,Plumber Worker 75 (BLR),Plumber,3,"Drain Choke Removal, Toilet Flush/Flapper Repair, Geyser Repair, Bathroom Leak Fix",560066,377.84,3.7,False,False,3
+1076,Electrician Worker 76 (BLR),Electrician,14,"Geyser Connection, New Meter Box Installation, Inverter/UPS Wiring",560001,502.18,3.8,False,True,3
+1077,Plumber Worker 77 (BLR),Plumber,8,"Bathroom Leak Fix, Toilet Flush/Flapper Repair, Tap/Mixer Installation",560066,319.13,4.4,True,True,3
+1078,Plumber Worker 78 (BLR),Plumber,4,"Toilet Flush/Flapper Repair, Tap/Mixer Installation, Bathroom Leak Fix",560075,771.84,4.3,False,False,3
+1079,Plumber Worker 79 (BLR),Plumber,12,"Geyser Repair, Toilet Flush/Flapper Repair",560103,649.16,4.5,False,True,4
+1080,Plumber Worker 80 (BLR),Plumber,9,"Drain Choke Removal, Geyser Repair",560066,513.14,4.6,True,True,4
+1081,Electrician Worker 81 (BLR),Electrician,4,"Inverter/UPS Wiring, Geyser Connection",560103,777.57,4.7,False,True,4
+1082,Electrician Worker 82 (BLR),Electrician,14,"MCB Box Repair, Geyser Connection",560037,388.72,4.1,False,True,3
+1083,Plumber Worker 83 (BLR),Plumber,3,"Toilet Flush/Flapper Repair, Tap/Mixer Installation, Bathroom Leak Fix, Drain Choke Removal",560001,341.62,4.8,True,True,4
+1084,Plumber Worker 84 (BLR),Plumber,4,"Water Tank Cleaning, Drain Choke Removal",560066,773.28,4.0,True,False,4
+1085,Electrician Worker 85 (BLR),Electrician,15,"Inverter/UPS Wiring, New Meter Box Installation, MCB Box Repair, Geyser Connection",560001,422.55,4.2,False,False,3
+1086,Plumber Worker 86 (BLR),Plumber,8,"Geyser Repair, Bathroom Leak Fix, Drain Choke Removal",560037,507.91,3.5,False,True,4
+1087,Plumber Worker 87 (BLR),Plumber,9,"Geyser Repair, Water Tank Cleaning",560001,334.33,4.0,False,True,2
+1088,Plumber Worker 88 (BLR),Plumber,13,"Bathroom Leak Fix, Drain Choke Removal, Toilet Flush/Flapper Repair, Geyser Repair",560001,730.2,3.9,True,True,3
+1089,Electrician Worker 89 (BLR),Electrician,3,"New Meter Box Installation, MCB Box Repair, Light/Fan Installation, Wiring/Short Circuit",560001,582.02,4.5,False,False,5
+1090,Plumber Worker 90 (BLR),Plumber,2,"Drain Choke Removal, Bathroom Leak Fix",560037,430.42,4.4,True,True,4
+1091,Plumber Worker 91 (BLR),Plumber,14,"Bathroom Leak Fix, Water Tank Cleaning",560001,509.87,4.5,True,True,5
+1092,Electrician Worker 92 (BLR),Electrician,11,"Wiring/Short Circuit, New Meter Box Installation, MCB Box Repair",560001,301.46,4.9,False,True,1
+1093,Electrician Worker 93 (BLR),Electrician,11,"New Meter Box Installation, Wiring/Short Circuit, Inverter/UPS Wiring",560037,620.81,4.9,False,True,4
+1094,Electrician Worker 94 (BLR),Electrician,5,"Light/Fan Installation, Wiring/Short Circuit",560037,588.59,4.0,True,True,2
+1095,Electrician Worker 95 (BLR),Electrician,4,"Wiring/Short Circuit, New Meter Box Installation, Light/Fan Installation, MCB Box Repair",560103,377.74,4.4,False,True,5
+1096,Electrician Worker 96 (BLR),Electrician,2,"Wiring/Short Circuit, Geyser Connection",560037,539.86,4.8,True,False,5
+1097,Plumber Worker 97 (BLR),Plumber,14,"Water Tank Cleaning, Toilet Flush/Flapper Repair",560037,621.47,3.6,False,True,1
+1098,Plumber Worker 98 (BLR),Plumber,15,"Bathroom Leak Fix, Toilet Flush/Flapper Repair, Geyser Repair",560075,677.65,4.9,False,False,5
+1099,Plumber Worker 99 (BLR),Plumber,3,"Geyser Repair, Toilet Flush/Flapper Repair",560066,705.3,4.6,False,True,3
+1100,Electrician Worker 100 (BLR),Electrician,1,"MCB Box Repair, Inverter/UPS Wiring, Geyser Connection",560075,712.09,4.8,True,True,3

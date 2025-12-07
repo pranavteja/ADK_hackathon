@@ -1,0 +1,9 @@
+historical_id,trade,job_description,location_zip,labor_hours,material_cost,final_rate_charged,difficulty_score,worker_id,customer_review_text
+H001,Plumber,Fixed profound leak in main line under kitchen sink,560038,4.5,1200,3500,8,W101,Excellent work handled difficult situation well
+H002,Electrician,Complete 2BHK rewiring old building,560041,32,15000,45000,9,W102,Very professional expensive but worth it
+H003,Plumber,Tap washer replacement,560038,0.5,50,300,2,W101,Quick and easy
+H004,Electrician,Ceiling fan installation,560034,1.0,0,350,3,W103,Good job
+H005,Plumber,Geyser installation and line connection,560076,2.0,400,1200,5,W104,Neat work
+H006,Electrician,Inverter setup and battery connection,560003,1.5,200,800,4,W102,Explained everything clearly
+H007,Plumber,Bathroom blockage clearing deep clog,560100,3.0,0,1500,7,W105,Took a long time but fixed it
+H008,Carpenter,Custom bookshelf assembly,560034,5.0,0,2500,6,W106,Precise work

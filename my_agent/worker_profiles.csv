@@ -1,0 +1,7 @@
+worker_id,name,trade,experience_years,skill_tags,service_area_zip,base_hourly_rate,rating_average,is_available,verified_badge,expertise_level
+W101,Ramesh Kumar,Plumber,12,"Leak Detection,Pipe Fitting",560038,400,4.8,True,True,Elite
+W102,Suresh Reddy,Electrician,15,"Wiring,Invertors,Industrial",560041,500,4.9,True,True,Expert
+W103,Anil Singh,Electrician,3,"Fittings,Basic Repair",560034,250,4.2,True,False,Moderate
+W104,Mahesh B,Plumber,5,"Installation,General Repair",560076,350,4.5,True,True,Moderate
+W105,Raju P,Plumber,8,"Blockage,Drainage",560100,450,4.6,False,True,Expert
+W106,John D,Carpenter,10,"Furniture,Interiors",560034,400,4.7,True,True,Elite

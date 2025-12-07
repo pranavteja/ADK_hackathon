@@ -1,0 +1,101 @@
+job_id,required_trade,location_zip,problem_description,urgency_level
+2001,Plumber,560001,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,2
+2002,Electrician,560001,Old main fuse needs to be replaced with a modern safety MCB distribution box.,5
+2003,Plumber,560075,The geyser is not heating water. Needs immediate inspection and heating element replacement.,2
+2004,Plumber,560001,Overhead water tank is overflowing due to a faulty float valve. Urgent fix required.,5
+2005,Plumber,560075,The geyser is not heating water. Needs immediate inspection and heating element replacement.,5
+2006,Plumber,560037,The geyser is not heating water. Needs immediate inspection and heating element replacement.,3
+2007,Plumber,560001,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,1
+2008,Electrician,560066,Flickering LED tube light in the kitchen. Need to check the ballast/starter and wiring.,3
+2009,Plumber,560103,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,4
+2010,Electrician,560037,Old main fuse needs to be replaced with a modern safety MCB distribution box.,1
+2011,Electrician,560103,Main MCB (Miniature Circuit Breaker) keeps tripping when the AC is switched on. Suspect overload.,3
+2012,Electrician,560075,Need to install a new 15A power socket in the balcony for an outdoor unit.,4
+2013,Electrician,560103,Old main fuse needs to be replaced with a modern safety MCB distribution box.,2
+2014,Electrician,560037,Main MCB (Miniature Circuit Breaker) keeps tripping when the AC is switched on. Suspect overload.,4
+2015,Electrician,560001,Inverter connection is sparking when the load switches over. Need urgent wiring check.,5
+2016,Plumber,560037,Overhead water tank is overflowing due to a faulty float valve. Urgent fix required.,2
+2017,Plumber,560037,The geyser is not heating water. Needs immediate inspection and heating element replacement.,2
+2018,Plumber,560037,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,5
+2019,Plumber,560075,Overhead water tank is overflowing due to a faulty float valve. Urgent fix required.,4
+2020,Plumber,560001,Tap in the master bathroom is leaking non-stop. Need a cartridge replacement.,3
+2021,Plumber,560001,Overhead water tank is overflowing due to a faulty float valve. Urgent fix required.,5
+2022,Plumber,560075,Overhead water tank is overflowing due to a faulty float valve. Urgent fix required.,3
+2023,Plumber,560075,Tap in the master bathroom is leaking non-stop. Need a cartridge replacement.,3
+2024,Plumber,560066,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,5
+2025,Plumber,560066,Tap in the master bathroom is leaking non-stop. Need a cartridge replacement.,3
+2026,Plumber,560103,A new washing machine needs to be connected to the water inlet/outlet lines.,4
+2027,Plumber,560001,Overhead water tank is overflowing due to a faulty float valve. Urgent fix required.,4
+2028,Plumber,560103,The geyser is not heating water. Needs immediate inspection and heating element replacement.,3
+2029,Electrician,560075,Flickering LED tube light in the kitchen. Need to check the ballast/starter and wiring.,4
+2030,Electrician,560075,Old main fuse needs to be replaced with a modern safety MCB distribution box.,4
+2031,Electrician,560103,Main MCB (Miniature Circuit Breaker) keeps tripping when the AC is switched on. Suspect overload.,3
+2032,Electrician,560001,Need to install a new 15A power socket in the balcony for an outdoor unit.,3
+2033,Plumber,560001,Tap in the master bathroom is leaking non-stop. Need a cartridge replacement.,5
+2034,Plumber,560037,Tap in the master bathroom is leaking non-stop. Need a cartridge replacement.,5
+2035,Electrician,560103,Flickering LED tube light in the kitchen. Need to check the ballast/starter and wiring.,4
+2036,Electrician,560103,Install a ceiling fan and regulator in two bedrooms.,1
+2037,Plumber,560075,The geyser is not heating water. Needs immediate inspection and heating element replacement.,1
+2038,Electrician,560066,Need to install a new 15A power socket in the balcony for an outdoor unit.,5
+2039,Electrician,560075,Old main fuse needs to be replaced with a modern safety MCB distribution box.,3
+2040,Electrician,560075,Flickering LED tube light in the kitchen. Need to check the ballast/starter and wiring.,3
+2041,Electrician,560066,Inverter connection is sparking when the load switches over. Need urgent wiring check.,2
+2042,Plumber,560037,A new washing machine needs to be connected to the water inlet/outlet lines.,3
+2043,Electrician,560066,Install a ceiling fan and regulator in two bedrooms.,4
+2044,Electrician,560066,Old main fuse needs to be replaced with a modern safety MCB distribution box.,2
+2045,Electrician,560075,Inverter connection is sparking when the load switches over. Need urgent wiring check.,5
+2046,Electrician,560001,Need to install a new 15A power socket in the balcony for an outdoor unit.,3
+2047,Electrician,560001,Install a ceiling fan and regulator in two bedrooms.,3
+2048,Electrician,560066,Main MCB (Miniature Circuit Breaker) keeps tripping when the AC is switched on. Suspect overload.,4
+2049,Electrician,560103,Need to install a new 15A power socket in the balcony for an outdoor unit.,4
+2050,Plumber,560103,Tap in the master bathroom is leaking non-stop. Need a cartridge replacement.,3
+2051,Plumber,560001,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,5
+2052,Electrician,560075,Install a ceiling fan and regulator in two bedrooms.,4
+2053,Plumber,560103,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,3
+2054,Plumber,560103,A new washing machine needs to be connected to the water inlet/outlet lines.,4
+2055,Plumber,560066,The geyser is not heating water. Needs immediate inspection and heating element replacement.,3
+2056,Electrician,560103,Install a ceiling fan and regulator in two bedrooms.,3
+2057,Electrician,560001,Need to install a new 15A power socket in the balcony for an outdoor unit.,5
+2058,Plumber,560001,Major water pipe burst in the wall near the meter. Emergency call-out required.,1
+2059,Plumber,560001,Tap in the master bathroom is leaking non-stop. Need a cartridge replacement.,3
+2060,Electrician,560001,Old main fuse needs to be replaced with a modern safety MCB distribution box.,2
+2061,Electrician,560066,Old main fuse needs to be replaced with a modern safety MCB distribution box.,5
+2062,Electrician,560075,Install a ceiling fan and regulator in two bedrooms.,5
+2063,Plumber,560037,Tap in the master bathroom is leaking non-stop. Need a cartridge replacement.,2
+2064,Electrician,560075,Install a ceiling fan and regulator in two bedrooms.,4
+2065,Plumber,560103,The geyser is not heating water. Needs immediate inspection and heating element replacement.,3
+2066,Electrician,560066,Old main fuse needs to be replaced with a modern safety MCB distribution box.,3
+2067,Plumber,560037,The geyser is not heating water. Needs immediate inspection and heating element replacement.,1
+2068,Electrician,560075,Flickering LED tube light in the kitchen. Need to check the ballast/starter and wiring.,1
+2069,Electrician,560103,Install a ceiling fan and regulator in two bedrooms.,3
+2070,Electrician,560075,Old main fuse needs to be replaced with a modern safety MCB distribution box.,4
+2071,Electrician,560103,Main MCB (Miniature Circuit Breaker) keeps tripping when the AC is switched on. Suspect overload.,1
+2072,Plumber,560066,Major water pipe burst in the wall near the meter. Emergency call-out required.,5
+2073,Electrician,560103,Inverter connection is sparking when the load switches over. Need urgent wiring check.,3
+2074,Plumber,560066,Major water pipe burst in the wall near the meter. Emergency call-out required.,4
+2075,Plumber,560066,The geyser is not heating water. Needs immediate inspection and heating element replacement.,4
+2076,Electrician,560037,Old main fuse needs to be replaced with a modern safety MCB distribution box.,4
+2077,Electrician,560037,Flickering LED tube light in the kitchen. Need to check the ballast/starter and wiring.,1
+2078,Electrician,560103,Inverter connection is sparking when the load switches over. Need urgent wiring check.,5
+2079,Plumber,560103,Tap in the master bathroom is leaking non-stop. Need a cartridge replacement.,5
+2080,Plumber,560001,The geyser is not heating water. Needs immediate inspection and heating element replacement.,4
+2081,Electrician,560001,Old main fuse needs to be replaced with a modern safety MCB distribution box.,3
+2082,Electrician,560066,Main MCB (Miniature Circuit Breaker) keeps tripping when the AC is switched on. Suspect overload.,3
+2083,Electrician,560066,Flickering LED tube light in the kitchen. Need to check the ballast/starter and wiring.,3
+2084,Plumber,560037,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,5
+2085,Plumber,560103,A new washing machine needs to be connected to the water inlet/outlet lines.,1
+2086,Electrician,560037,Flickering LED tube light in the kitchen. Need to check the ballast/starter and wiring.,4
+2087,Electrician,560103,Main MCB (Miniature Circuit Breaker) keeps tripping when the AC is switched on. Suspect overload.,1
+2088,Plumber,560037,The geyser is not heating water. Needs immediate inspection and heating element replacement.,5
+2089,Plumber,560001,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,1
+2090,Plumber,560001,Major water pipe burst in the wall near the meter. Emergency call-out required.,4
+2091,Electrician,560075,Need to install a new 15A power socket in the balcony for an outdoor unit.,1
+2092,Plumber,560075,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,1
+2093,Electrician,560075,Main MCB (Miniature Circuit Breaker) keeps tripping when the AC is switched on. Suspect overload.,4
+2094,Plumber,560103,A new washing machine needs to be connected to the water inlet/outlet lines.,1
+2095,Plumber,560075,Kitchen sink drain completely choked. Need a jetted service to clear the blockage.,1
+2096,Plumber,560001,A new washing machine needs to be connected to the water inlet/outlet lines.,3
+2097,Plumber,560001,Overhead water tank is overflowing due to a faulty float valve. Urgent fix required.,2
+2098,Electrician,560103,Install a ceiling fan and regulator in two bedrooms.,3
+2099,Plumber,560066,A new washing machine needs to be connected to the water inlet/outlet lines.,5
+2100,Plumber,560001,The geyser is not heating water. Needs immediate inspection and heating element replacement.,3

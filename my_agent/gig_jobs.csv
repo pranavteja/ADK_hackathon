@@ -1,0 +1,8 @@
+job_id,required_trade,location_zip,problem_description,urgency_level
+J101,Plumber,560038,Kitchen sink pipe burst flooding apartment,High
+J102,Electrician,560034,Dining room fan making wobbling noise,Low
+J103,Plumber,560066,Water tank overflow sensor installation,Medium
+J104,Electrician,560102,Half the house lost power suddenly,High
+J105,Carpenter,560041,Door hinge broken needs replacement,Medium
+J106,Plumber,560003,Convert indian toilet to western,Low
+J107,Electrician,560100,Install new AC power point,Medium
